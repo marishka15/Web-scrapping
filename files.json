@@ -1,0 +1,32 @@
+[
+  {
+    "name": "idaproject",
+    "link": "https://spb.hh.ru/vacancy/86216012?from=vacancy_search_list&query=python",
+    "salary": "Заработная плата не указана",
+    "city": "Москва,"
+  },
+  {
+    "name": "AGIMA",
+    "link": "https://spb.hh.ru/vacancy/86930829?from=vacancy_search_list&query=python",
+    "salary": "Заработная плата не указана",
+    "city": "Москва,"
+  },
+  {
+    "name": "ООО Селфсек",
+    "link": "https://spb.hh.ru/vacancy/72687504?from=vacancy_search_list&query=python",
+    "salary": "от 150 000 до 200 000 ₽ на руки",
+    "city": "Москва,"
+  },
+  {
+    "name": "Крауд",
+    "link": "https://spb.hh.ru/vacancy/86922786?from=vacancy_search_list&query=python",
+    "salary": "до 20 000 ₽ на руки",
+    "city": "Санкт-Петербург,"
+  },
+  {
+    "name": "АНО ЦИСМ",
+    "link": "https://spb.hh.ru/vacancy/82532098?from=vacancy_search_list&query=python",
+    "salary": "Заработная плата не указана",
+    "city": "Москва,"
+  }
+]
